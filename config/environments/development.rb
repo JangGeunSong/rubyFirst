@@ -9,6 +9,9 @@ Rails.application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
+  # debug config option true
+  config.debug_exception_response_format = :default
+
   # Show full error reports.
   config.consider_all_requests_local = true
 
