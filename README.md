@@ -37,3 +37,5 @@ ruby - 2.6.5p114
 rails - 6.0.3.1  
 
 os - windows 10 pro  
+
+editor : vscode
