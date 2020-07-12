@@ -1,0 +1,20 @@
+이 문서는 데이터 구조를 작성할 문서입니다.
+
+1. post 
+    - title
+    - description
+    - image
+    - writer
+
+2. user
+    - username
+    - password
+    - personalInfo
+
+3. personalInfo
+    - name
+    - phone_num
+    - profile_image
+    - profile_description
+
+우선 3개의 항목으로 1차 작성 후 이후 추가 작성 계획으로 들어갈 길이등은 미정입니다.
