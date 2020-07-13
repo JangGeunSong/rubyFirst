@@ -6,15 +6,8 @@
     - image
     - writer
 
-2. user
-    - username
-    - password
-    - personalInfo
+2. category
+    - description
+    - num_posts
 
-3. personalInfo
-    - name
-    - phone_num
-    - profile_image
-    - profile_description
-
-우선 3개의 항목으로 1차 작성 후 이후 추가 작성 계획으로 들어갈 길이등은 미정입니다.
+우선 2개의 항목으로 1차 작성 후 이후 추가 작성 계획으로 들어갈 길이등은 미정입니다.
