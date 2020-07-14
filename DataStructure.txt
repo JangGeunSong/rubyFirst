@@ -1,12 +1,14 @@
 이 문서는 데이터 구조를 작성할 문서입니다.
 
 1. post 
+    - postID
     - title
     - description
     - image
     - writer
 
 2. category
+    - categoryID
     - description
     - num_posts
 
