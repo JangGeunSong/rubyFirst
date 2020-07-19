@@ -4,8 +4,9 @@
     - postID
     - title
     - description
-    - image
+    - image[]
     - writer
+    - cretDate
 
 2. category
     - categoryID
