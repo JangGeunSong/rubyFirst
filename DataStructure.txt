@@ -12,5 +12,6 @@
     - categoryID
     - description
     - num_posts
+    - cretDate
 
 우선 2개의 항목으로 1차 작성 후 이후 추가 작성 계획으로 들어갈 길이등은 미정입니다.
