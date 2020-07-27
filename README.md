@@ -45,3 +45,7 @@ rails - 6.0.3.1
 os - windows 10 pro  
 
 editor : vscode
+
+## 현재 데이터 구조
+
+데이터 구조의 경우 datastructure.txt 내부에 저장하여 해당 구조로 제작할 계획입니다.
